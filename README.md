@@ -4,7 +4,7 @@
 
 <h2 align="center">Tasks are taken from the site https://www.codewars.com/</h2>
 
-
+### Tasks are executed in python
 <br><br>
 
 ![image description](image/code-kata.png)

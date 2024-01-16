@@ -6,5 +6,10 @@
 
 ### Tasks are executed in python
 <br><br>
+### Date done task
+
+- fourth_task.py 16.01.2024
+
+<br>
 
 ![image description](image/code-kata.png)

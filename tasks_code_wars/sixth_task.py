@@ -14,3 +14,5 @@ def duplicate_encode(word):
             used.append(w.lower())
 
     return new
+
+
